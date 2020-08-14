@@ -51,7 +51,22 @@ CONFIGURATION
  * You need also to...
 
  * And obviously also to ...
-   
+
+TEST
+---------------
+
+In order to run the test you need to type the command
+
+```
+$ run test blah
+```
+
+The report will be saved as : blah
+
+NOTES
+---------------
+
+You can add special notes here
    
 TROUBLESHOOTING
 ---------------
