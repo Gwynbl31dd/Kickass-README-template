@@ -28,12 +28,17 @@ RECOMMENDED MODULES
  * Module3 (https://module3):
    It is also recommanded but optional to install module blah
    
+ * Module4 (https://module4):
+   It is also recommanded but optional to install module blah
+   
 INSTALLATION
 ------------
  
  * Installation step 1
 
  * Installation step 2
+ 
+  * Installation step 3
  
 CONFIGURATION
 -------------
@@ -62,11 +67,6 @@ $ run test blah
 ```
 
 The report will be saved as : blah
-
-NOTES
----------------
-
-You can add special notes here
    
 TROUBLESHOOTING
 ---------------
@@ -83,6 +83,13 @@ FAQ
 Q: Is my question relevant?
 
 A: Yes, therefore I will include it here.
+
+KNOWN ISSUES
+---------------
+
+* If you do blah you may have issue. 
+* If you do blih, you may encounter a problem with bloh.
+* it is possible that if you bleh, that the system will...
 
 MAINTAINERS
 -----------
