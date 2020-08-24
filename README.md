@@ -98,6 +98,6 @@ Current maintainers:
  * Anthony Paulin (Gwynbl31dd) - https://github.com/Gwynbl31dd
 
 This project has been sponsored by:
- * My myself and I
+ * Me, myself and I
     http://perdu.com
 
